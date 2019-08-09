@@ -1,0 +1,8 @@
+Name,Sin
+neo,Plastic
+Jack,Stowaway
+John,Murder
+Jack,theft
+Wee,Wee WEe
+HOW,SIN
+this is a vim ide,
